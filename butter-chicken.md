@@ -1,8 +1,8 @@
 # Butter Chicken
 
-Butter chicken is an iconic recipe from Old Delhi. Its a pretty brilliant way to deal with leftover proteins and give them some new life.
+Butter chicken (Hindi: murgh makhani /moorgh MUH-khuh-nee/, lit. 'butter chicken') is an iconic recipe from Old Delhi. Its a pretty brilliant way to deal with leftover proteins and give them some new life. It has a similar consistency to Chicken Tikka Masala, but has very little heat (if at all) and a few other differences in base flavor profile.
 
-Goals:
+#### Goals
 1. Breakdown a general technique for Butter Chicken
 1. Discuss why Butter Chicken works and touch on its history
 1. Outline some popular substitutions that can be made
@@ -14,4 +14,22 @@ Goals:
 1. Eyeball some recipe amounts
 1. Discuss core unskippable ingredients
 
+## General Technique
+
+The key aspects of this recipe are:
+- No onions (cf with Chicken Tikka Masala)
+- Mild in terms of heat (cf CTM)
+- Cooked in butter, not oil
+
+## References
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
