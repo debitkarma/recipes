@@ -22,9 +22,9 @@ The key aspects of this recipe are:
 - Cooked in butter, not oil
 
 ## References
-- []()
-- []()
-- []()
+- [Swasthi's Recipe](https://www.indianhealthyrecipes.com/butter-chicken/)
+- [Restaurant style recipe](https://littlespicejar.com/finger-lickin-butter-chicken-murgh-makhani/)
+- [Nik Sharma's recipe](https://niksharmacooks.com/butter-chicken/)
 - []()
 - []()
 - []()
