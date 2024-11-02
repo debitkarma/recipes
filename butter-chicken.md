@@ -6,10 +6,10 @@ Butter chicken (Hindi: murgh makhani /moorgh MUH-khuh-nee/, lit. 'butter chicken
 1. Breakdown a general technique for Butter Chicken
 1. Discuss why Butter Chicken works and touch on its history
 1. Outline some popular substitutions that can be made
-  - Gram flour (Besan or chickpea flour) is used in the marinade to create a crust on the chicken as it dries and cooks, not unlike cornflour in chinese stir frys or AP flour in dredges.
-  - Cooking out the flour makes it super nutty and savory
-  - If you need to substitute, use AP flour, and use finely grated parmesan.
-  - Parmesan mimics the umami from nutty chickpea flour! GREAT substitute, or even an upgrade.
+    - Gram flour (Besan or chickpea flour) is used in the marinade to create a crust on the chicken as it dries and cooks, not unlike cornflour in chinese stir frys or AP flour in dredges.
+    - Cooking out the flour makes it super nutty and savory
+    - If you need to substitute, use AP flour, and use finely grated parmesan.
+    - Parmesan mimics the umami from nutty chickpea flour! GREAT substitute, or even an upgrade.
 1. Highlight cheats to make this mid-week friendly
   - Freezing sauce at different stages
   - Using store-bought/ready-to-eat proteins
