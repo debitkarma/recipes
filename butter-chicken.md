@@ -11,9 +11,9 @@ Butter chicken (Hindi: murgh makhani /moorgh MUH-khuh-nee/, lit. 'butter chicken
     - If you need to substitute, use AP flour, and use finely grated parmesan.
     - Parmesan mimics the umami from nutty chickpea flour! GREAT substitute, or even an upgrade.
 1. Highlight cheats to make this mid-week friendly
-  - Freezing sauce at different stages
-  - Using store-bought/ready-to-eat proteins
-  - Having sides ready to go
+    - Freezing sauce at different stages
+    - Using store-bought/ready-to-eat proteins
+    - Having sides ready to go
 1. Plan mise en place
 1. Eyeball some recipe amounts
 1. Discuss core unskippable ingredients
